@@ -1,0 +1,7 @@
+{
+  "name": "Zeus: Medidor de Calorias food",
+  "description": "A modern AI-powered application that uses Gemini to analyze food photos and provide instant caloric and nutritional insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
